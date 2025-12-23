@@ -1,0 +1,5 @@
+{
+  "name": "d-di",
+  "description": "A modern drug-drug interaction assistant for pharmacy students, powered by Gemini AI.",
+  "requestFramePermissions": []
+}
